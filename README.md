@@ -11,4 +11,4 @@ If you like this software, consider making a donation to the developer. Thank yo
 - BTC: **bc1qwjcpv4sanrjpnuqa8med7wdj9zqg2mh5lslrjv**
 
 # Contact
-Telegram: mohamm4dx
+Telegram: [MOHAMMAD](https://t.me/mohamm4dx)
