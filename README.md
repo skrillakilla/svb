@@ -4,7 +4,7 @@ https://t.me/SilverBulletSoft
 
 
 # Required
-1. [WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
+1. .NET Core 5
 
 # Donate
 If you like this software, consider making a donation to the developer. Thank you!
