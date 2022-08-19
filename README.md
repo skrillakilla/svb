@@ -8,7 +8,7 @@ https://t.me/SilverBulletSoft
 
 # Donate
 If you like this software, consider making a donation to the developer. Thank you!
-- BTC: **bc1qwjcpv4sanrjpnuqa8med7wdj9zqg2mh5lslrjv**
+- BTC: **bc1qnm46wawnw038qhu6uas9776205fw45hgrw9g7x**
 
 # Contact
 Telegram: [MOHAMMAD](https://t.me/mohamm4dx)
