@@ -4,7 +4,7 @@ https://t.me/SilverBulletSoft
 
 
 # Required
-1- .NET Core 6
+1- [.NET Core 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 # Donate
 If you like this software, consider making a donation to the developer. Thank you!
