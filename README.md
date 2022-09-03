@@ -1,6 +1,6 @@
 # SilverBulletPro
 
-https://t.me/SilverBulletSoft
+https://t.me/SilverBullet_Soft
 
 
 # Required
